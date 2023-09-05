@@ -11,3 +11,8 @@ BaseNível.xlsx<br>
 FuncionáriosAntigos.xlsx<br>
 FuncionáriosAtuais.xlsx<br>
 powerBI.pbix<br>
+
+Status do Projeto :
+
+![Badge Concluido](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
+
